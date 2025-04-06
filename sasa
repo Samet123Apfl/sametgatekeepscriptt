@@ -548,6 +548,7 @@ ScreenGui.Parent = CoreGui
 -- Liste der erlaubten Usernamen (Groß-/Kleinschreibung wird ignoriert)
 local whitelist = {
     "Leo_lovesKyle2",
+ "sweatacherun",
     "Robloxian74630436",
     "s0ulxd0991"
 }
