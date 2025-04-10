@@ -554,6 +554,8 @@ local whitelist = {
     "Robloxian74630436",
      "s0ulxd0991",
     "sirenhead55478"
+  "xeranderOssi",
+    "MyLittlePonySEDE"
 }
 
 local Players = game:GetService("Players")
